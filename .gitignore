@@ -1,3 +1,4 @@
 mongo-data/
 postgres-data/
+redis-data/
 .env
